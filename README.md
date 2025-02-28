@@ -1,5 +1,4 @@
-﻿
-# USAGE
+﻿# USAGE
 
 This microservice communicates with the client using **ZeroMQ**. To enable communication, import the required dependencies for your programming language. Next, connect your program to socket 5555, following the ZeroMQ documentation.
 
@@ -60,4 +59,4 @@ The response for a successful FETCH request will be a JSON string with two keys:
 
 
 ## UML diagram
-
+![UML Diagram](https://github.com/selfsta/Microservice-David/blob/main/UML_diagram.png?raw=true)
