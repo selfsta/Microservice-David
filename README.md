@@ -1,4 +1,4 @@
-﻿# USAGE
+﻿# Usage
 
 This microservice communicates with the client using **ZeroMQ**. To enable communication, import the required dependencies for your programming language. Next, connect your program to socket 5555, following the ZeroMQ documentation.
 
